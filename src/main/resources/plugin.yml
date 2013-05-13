@@ -1,0 +1,3 @@
+name: ircbridge
+version: 1.0
+main: com.zack6849.irc.bridge.App
